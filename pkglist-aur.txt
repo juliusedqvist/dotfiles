@@ -1,0 +1,14 @@
+1password
+ani-cli
+anki
+asusctl
+latexrun-git
+neovim-web-devicons-git
+pyenv-virtualenv
+python-inkscape-figures
+rog-control-center
+supergfxctl
+vitetris
+woeusb
+yay
+yay-debug
